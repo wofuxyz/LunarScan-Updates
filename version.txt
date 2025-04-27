@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "updateUrl": "https://github.com/DEIN_USERNAME/LunarScan-Updates/releases/download/v1.0.0/LunarScan.exe",
+  "changelog": "Erste Version"
+}
